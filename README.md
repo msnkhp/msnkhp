@@ -1,294 +1,106 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFFFFF,100:FFD700&height=230&section=header&text=Sohail%20Nasir&fontSize=62&fontColor=1A1A1A&fontAlignY=35&desc=Building%20AI-Powered%20Financial%20Products%20%26%20Data-Driven%20Solutions&descAlignY=58&descSize=16&descColor=1A1A1A&animation=twinkling" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Founder+%40+PropToken;Data+Analyst+%26+AI+Trainer+%40+Turing;I+Build+Things+That+Solve+Real+Financial+Problems;Not+Just+Ideas+%E2%80%94+Working+Products;Open+to+Opportunities+%F0%9F%9A%80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFFFFF,100:FFD700&height=220&section=header&text=Sohail%20Nasir&fontSize=60&fontColor=1A1A1A&fontAlignY=35&desc=FinTech%20%7C%20AI%20%7C%20Web3%20Builder&descAlignY=58&descSize=18&descColor=1A1A1A" />
 
 <br>
 
-<a href="https://linkedin.com/in/sohail-nasir-241352261" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=000000" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=FFD700&center=true&vCenter=true&width=800&lines=Founder+@+PropToken;AI+Trainer+%40+Turing;Building+Financial+Systems+That+Actually+Work;Turning+Data+Into+Decisions+That+Matter;Open+to+AI+%2F+Data+%2F+Web3+Roles" />
+
+</div>
+
+---
+
+## ⚡ About Me
+
+I build **financial and AI systems that solve real problems**, not experiments.
+
+- 🎓 FinTech Graduate @ FAST-NUCES (Dean’s List ×7 | Bronze Medal 3.9 SGPA)
+- 🏗 Founder @ PropToken — blockchain-based real estate tokenization
+- 🤖 AI Trainer & Data Analyst @ Turing
+- 🧠 Experience across telecom, banking, and AI product development
+
+**Focus:**  
+Turning complex data → into usable financial intelligence → and scalable products.
+
+---
+
+## 🚀 Core Work
+
+### 🏠 PropToken (Founder)
+Blockchain-based real estate tokenization platform  
+→ Fractional ownership using smart contracts  
+→ Reduced manual processing by ~40%  
+→ Validated with real users (MVP stage)
+
+### 📊 FinSight (AI System)
+AI-powered financial intelligence engine  
+→ Real-time market + transaction insights  
+→ Decision support layer for financial data
+
+### 🛡 AI Fraud Detection
+ML-based anomaly detection system  
+→ Flags suspicious financial transactions  
+→ Built using statistical + ML hybrid pipeline
+
+---
+
+## 🧠 What I Work With
+
+**AI / Data**
+- Python, Pandas, Scikit-learn, FastAPI
+
+**Web / Systems**
+- React, Node.js, MongoDB
+
+**Blockchain**
+- Solidity, Web3.js, Smart Contracts
+
+**Tools**
+- Git, Supabase, Vercel
+
+---
+
+## 📈 Impact Snapshot
+
+- 🚀 ~40% faster financial processing (PropToken workflows)
+- 📊 ~15–20% improvement in AI model accuracy (Turing work)
+- 🧩 5+ smart contracts deployed in production-style systems
+- 👥 50+ users validated across MVP systems
+
+---
+
+## 🎯 Mission
+
+- Make finance **accessible**, not complex
+- Make blockchain **useful**, not hype
+- Make AI **accountable**, not abstract
+
+---
+
+## 🤝 Let’s Connect
+
+<div align="center">
+
 <a href="mailto:msnkhp@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FFD700&labelColor=000000" />
-</a>
-<a href="https://github.com/msnkhp" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700" />
-</a>
-<a href="https://github.com/msnkhp/msnkhp/raw/main/Sohail_Nasir_CV.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/📄_Download_CV-FFD700?style=for-the-badge&logoColor=000000&labelColor=000000" />
+<img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000"/>
 </a>
 
-<br><br>
+<a href="https://linkedin.com/in/sohail-nasir-241352261">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=msnkhp&label=PROFILE+VIEWS&color=ffd700&style=for-the-badge" />
-
-</div>
-
-<br>
-
-<!-- ===================== METRICS STRIP ===================== -->
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">🎓<br><b>Dean's List</b><br>7 Semesters</td>
-<td align="center" width="20%">🥉<br><b>Bronze Medal</b><br>3.9 SGPA</td>
-<td align="center" width="20%">🚀<br><b>50+ Users</b><br>PropToken MVP</td>
-<td align="center" width="20%">📈<br><b>15–20% Lift</b><br>AI Accuracy @ Turing</td>
-<td align="center" width="20%">⚡<br><b>~40% Faster</b><br>Processing Time</td>
-</tr>
-</table>
+<a href="https://github.com/msnkhp">
+<img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=000"/>
+</a>
 
 </div>
 
-<br>
+---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2500&color=1A1A1A&center=true&vCenter=true&width=850&lines=%22I+care+less+about+buzzwords+and+more+about+whether+what+I+build+actually+works.%22" />
-</div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFFFFF,100:FFD700&height=120&section=footer" />
 
-## ⚡ Who I Am · What I Do
-
-```yaml
-name: Sohail Nasir
-location: Taxila Cantt, Pakistan
-role: FinTech Graduate · Data Analyst & AI Trainer · Blockchain Founder
-education: "BS FinTech, FAST-NUCES (2022–2026) — CGPA 3.62/4.00"
-honors: "Dean's List ×7 Semesters | Bronze Medal (3.9 SGPA, Spring 2026)"
-currently:
-  - "Founder @ PropToken — blockchain real-estate tokenization"
-  - "Data Analyst / AI Trainer @ Turing — evaluating & improving AI model accuracy"
-what_i_actually_do:
-  - "Train & validate AI models on real data, real edge cases, real mistakes"
-  - "Design smart contracts & financial models for fractional asset ownership"
-  - "Turn raw transactional/behavioral data into decisions teams can act on"
-mission: "Make finance accessible, blockchain practical, AI accountable."
-status: "🟡 Open to Data / AI / FinTech roles"
-```
-
-<br>
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,solidity,nodejs,fastapi,mongodb,supabase,tailwind,git,vercel&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-FFD700?style=flat-square&logo=python&logoColor=000" />
-  <img src="https://img.shields.io/badge/-SQL-FFFFFF?style=flat-square&logo=postgresql&logoColor=000" />
-  <img src="https://img.shields.io/badge/-React-FFD700?style=flat-square&logo=react&logoColor=000" />
-  <img src="https://img.shields.io/badge/-FastAPI-FFFFFF?style=flat-square&logo=fastapi&logoColor=000" />
-  <img src="https://img.shields.io/badge/-Solidity-FFD700?style=flat-square&logo=solidity&logoColor=000" />
-  <img src="https://img.shields.io/badge/-Web3.js-FFFFFF?style=flat-square&logo=web3dotjs&logoColor=000" />
-  <img src="https://img.shields.io/badge/-MongoDB-FFD700?style=flat-square&logo=mongodb&logoColor=000" />
-  <img src="https://img.shields.io/badge/-Power%20BI-FFFFFF?style=flat-square&logo=powerbi&logoColor=000" />
-  <img src="https://img.shields.io/badge/-Scikit--learn-FFD700?style=flat-square&logo=scikitlearn&logoColor=000" />
-  <img src="https://img.shields.io/badge/-Pandas-FFFFFF?style=flat-square&logo=pandas&logoColor=000" />
-</p>
-
-<br>
-
-## 📊 GitHub Pulse
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=msnkhp&show_icons=true&theme=gotham&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFFFFF&text_color=ffffff&ring_color=FFD700" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=msnkhp&theme=gotham&hide_border=true&background=000000&ring=FFD700&fire=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFD700" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msnkhp&layout=compact&theme=gotham&hide_border=true&bg_color=000000&title_color=FFD700&text_color=ffffff&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msnkhp&theme=minimal&hide_border=true&bg_color=000000&color=FFD700&line=FFD700&point=FFFFFF&area=true&area_color=FFD700" width="95%" />
-</div>
-
-<br>
-
-## 🏆 Featured Builds
-
-### 🏠 [PropToken](https://github.com/msnkhp) — Founder
-Blockchain-based real estate tokenization platform enabling **fractional ownership** so people can own a piece of property instead of saving for years to buy one outright.
-
-**Impact:**
-- MVP validated by **50+ real users**
-- Cut processing time by **~40%** vs. traditional manual workflows
-- Designed financial models for **3+ property investment structures**
-- Improved transaction transparency & asset tracking via on-chain design
-
-**Tech Stack:**
-![Solidity](https://img.shields.io/badge/-Solidity-FFD700?style=flat-square&logoColor=000)
-![Web3](https://img.shields.io/badge/-Web3.js-FFFFFF?style=flat-square&logoColor=000)
-![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts%20(5%2B)-FFD700?style=flat-square&logoColor=000)
-
-<br>
-
-### 📊 FinSight — AI Financial Intelligence Platform
-Full-stack AI-powered platform delivering **real-time financial insights** with automated data processing — built to replace manual financial review with live, automated intelligence.
-
-**Impact:** Automated financial data processing pipeline, real-time dashboard insights for decision-making.
-
-**Tech Stack:**
-![React](https://img.shields.io/badge/-React-FFD700?style=flat-square&logoColor=000)
-![FastAPI](https://img.shields.io/badge/-FastAPI-FFFFFF?style=flat-square&logoColor=000)
-![OpenAI](https://img.shields.io/badge/-OpenAI%20API-FFD700?style=flat-square&logoColor=000)
-![REST](https://img.shields.io/badge/-REST%20APIs-FFFFFF?style=flat-square&logoColor=000)
-
-<br>
-
-### 💰 FinTrack — Budgeting & Financial Analytics SaaS
-A SaaS-based budgeting platform letting users **track expenses, set budgets, and visualize financial health** through live dashboards.
-
-**Impact:** Real-time dashboard visualization turning raw spending data into actionable budget decisions.
-
-**Tech Stack:**
-![React](https://img.shields.io/badge/-React.js-FFD700?style=flat-square&logoColor=000)
-![Python](https://img.shields.io/badge/-Python-FFFFFF?style=flat-square&logoColor=000)
-![FastAPI](https://img.shields.io/badge/-FastAPI-FFD700?style=flat-square&logoColor=000)
-![MongoDB](https://img.shields.io/badge/-MongoDB-FFFFFF?style=flat-square&logoColor=000)
-
-<br>
-
-### 🛡️ AI Fraud Detection System
-ML-based anomaly detection engine that flags **fraudulent financial transactions** using behavioral patterns and predictive modeling — built to catch what rule-based checks miss.
-
-**Impact:** Identified anomalous transaction patterns using behavioral feature engineering + predictive scoring.
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/-Python-FFD700?style=flat-square&logoColor=000)
-![Sklearn](https://img.shields.io/badge/-Scikit--learn-FFFFFF?style=flat-square&logoColor=000)
-![Pandas](https://img.shields.io/badge/-Pandas%2FNumPy-FFD700?style=flat-square&logoColor=000)
-![JS](https://img.shields.io/badge/-HTML%2FCSS%2FJS-FFFFFF?style=flat-square&logoColor=000)
-
-<br>
-
-### 📈 Customer Analytics, Churn & BI Dashboard System
-End-to-end churn analysis and segmentation system with **SQL + Power BI dashboards** for KPI tracking and financial performance reporting across large-scale datasets.
-
-**Impact:** Delivered actionable customer segmentation insights for performance reporting at scale.
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/-Python-FFD700?style=flat-square&logoColor=000)
-![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=flat-square&logoColor=000)
-![PowerBI](https://img.shields.io/badge/-Power%20BI-FFD700?style=flat-square&logoColor=000)
-![Excel](https://img.shields.io/badge/-Excel-FFFFFF?style=flat-square&logoColor=000)
-
-<br>
-
-### 💼 [Crypto Secure Wallet](https://github.com/msnkhp/Crypto-secure-wallet)
-Security-first crypto wallet built around **end-to-end encrypted transaction handling**.
-
-**Tech Stack:**
-![Python](https://img.shields.io/badge/-Python-FFD700?style=flat-square&logoColor=000)
-![React](https://img.shields.io/badge/-React-FFFFFF?style=flat-square&logoColor=000)
-![Solidity](https://img.shields.io/badge/-Solidity-FFD700?style=flat-square&logoColor=000)
-
-<br>
-
-### 🤝 [InfluPay](https://github.com/msnkhp/influpay)
-Brand–influencer marketplace and booking platform streamlining collaboration payments end-to-end.
-
-**Tech Stack:**
-![React](https://img.shields.io/badge/-React-FFD700?style=flat-square&logoColor=000)
-![Node](https://img.shields.io/badge/-Node.js-FFFFFF?style=flat-square&logoColor=000)
-
-<br>
-
-## 💼 Professional Experience
-
-<table width="100%">
-<tr><td>
-
-**🟡 Turing — Data Analyst / AI Trainer** &nbsp;&nbsp;|&nbsp;&nbsp; *Jun 2025 – Present, Remote*
-- Evaluated **10,000+ AI-generated responses**, catching errors/edge cases automated checks missed
-- Raised AI response accuracy by **15–20%** by building data validation workflows in Python & SQL
-
-</td></tr>
-<tr><td>
-
-**⚪ Aurus Chain — Product Development Executive** &nbsp;&nbsp;|&nbsp;&nbsp; *2025 – Sep 2025*
-- Defined **10+ product requirements** for a pharma-focused AI SaaS platform with a 4-member team
-- Improved platform usability by **20%** by translating healthcare-user feedback into product decisions
-
-</td></tr>
-<tr><td>
-
-**🟡 U Microfinance Bank Limited — Digital Banking Intern** &nbsp;&nbsp;|&nbsp;&nbsp; *Jul 2024 – Aug 2024*
-- Resolved ATM disputes and managed debit card operations/reconciliation for **5,000+ customers**
-- Cut operational turnaround time by **20%** while maintaining **98% accuracy**
-
-</td></tr>
-<tr><td>
-
-**⚪ Ufone 4G — Segments / Product Development Intern** &nbsp;&nbsp;|&nbsp;&nbsp; *Jun 2024 – Jul 2024*
-- Analyzed churn patterns across **1M+ users**, improving targeting efficiency by **15%**
-- Built the data foundation behind a retention strategy adopted by the product team
-
-</td></tr>
-<tr><td>
-
-**🟡 Nexium — Web Development Intern** &nbsp;&nbsp;|&nbsp;&nbsp; *Feb 2024 – Jun 2024*
-- Built **5+ AI-integrated web features** end-to-end (frontend, backend, API integration)
-- Improved page load performance by **~25%** and resolved **15+ UX/functional bugs**
-
-</td></tr>
-</table>
-
-<br>
-
-## 🎓 Education
-
-**Bachelor of Science in Financial Technology (FinTech)**
-National University of Computer and Emerging Sciences (FAST-NUCES) &nbsp;|&nbsp; *Aug 2022 – Jun 2026*
-CGPA: **3.62/4.00** &nbsp;|&nbsp; FYP: **PropToken** — blockchain-powered real estate tokenization platform
-
-<br>
-
-## 📜 Certifications
-
-🔸 Datacom — Automation AI Accelerator: From Co-pilot to Autonomous Agent *(2026)*
-🔸 Commonwealth Bank — Data Science *(2026)*
-🔸 FinTech Masterclass — CFTE *(2025)*
-🔸 Deloitte Australia — Data Analytics Job Simulation *(2026)*
-🔸 Blockchain Technology — Cambridge International Qualifications, UK *(2025)*
-🔸 Machine Learning with Python — Cognitive Class *(2025)*
-
-<br>
-
-## 🏅 Awards & Leadership
-
-🔹 **Dean's List Honoree** — 7 Consecutive Semesters (Spring 2023 – Spring 2026), 3.5+ SGPA
-🔹 **Bronze Medal Recipient** — Spring 2026, for 3.9 SGPA academic achievement
-🔹 **Marketing Head, FinTech Society** — Led marketing strategy & student engagement outreach
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2500&color=1A1A1A&center=true&vCenter=true&width=850&lines=%22I+don%27t+just+analyze+data+%E2%80%94+I+build+systems+that+turn+it+into+decisions+worth+trusting.%22" />
-</div>
-
-<br>
-
-## 🎯 What Drives Me
-
-🔸 Making finance **accessible** — for the everyday user, not just institutions
-🔸 Making blockchain **practical** — not hype, but working products with real users
-🔸 Making AI **accountable** — trained, validated, and grounded in real data
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFFFFF,100:FFD700&height=120&section=header&text=Let's%20Build%20Something&fontSize=28&fontColor=1A1A1A&animation=twinkling" />
-
-📫 **[msnkhp@gmail.com](mailto:msnkhp@gmail.com)** &nbsp;|&nbsp; 🔗 **[LinkedIn](https://linkedin.com/in/sohail-nasir-241352261)** &nbsp;|&nbsp; 💻 **[GitHub](https://github.com/msnkhp)** &nbsp;|&nbsp; 📄 **[Download CV](https://github.com/msnkhp/msnkhp/raw/main/Sohail_Nasir_CV.pdf)**
-
-<sub>✨ *"Building today what the industry will need tomorrow."* ✨</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFFFFF,100:FFD700&height=130&section=footer" />
+<sub>“Build systems that outlast hype.”</sub>
 
 </div>
