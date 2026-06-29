@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:FFFFFF,100:FFD700&height=230&section=header&text=Sohail%20Nasir&fontSize=60&fontColor=1A1A1A&fontAlignY=35&desc=FinTech%20×%20AI%20×%20Web3%20Builder&descAlignY=58&descSize=18" />
+<!-- HEADER ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=250&section=header&text=SOHAIL%20NASIR&fontSize=65&fontColor=FFD700&fontAlignY=35&desc=FinTech%20×%20AI%20×%20Web3%20Builder&descSize=18&descAlignY=58" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Founder+@+PropToken;AI+Trainer+@+Turing;Building+Real+Financial+Systems;Turning+Data+Into+Decisions+That+Matter;Open+to+AI+%2F+Data+%2F+Web3+Roles" />
+<!-- TYPING INTRO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=FFD700&center=true&vCenter=true&width=950&lines=I+build+financial+systems+that+think+before+humans+do;I+turn+data+into+decisions+that+move+money;Founder+of+PropToken+%7C+AI+Trainer+%7C+System+Builder;Not+just+coding+projects+--+I+build+real+products" />
 
 <br>
 
+<!-- SOCIALS -->
 <a href="mailto:msnkhp@gmail.com">
 <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000"/>
 </a>
@@ -24,38 +27,23 @@
 
 ---
 
-## ⚡ CORE IDENTITY
+# 🧠 WHO I AM
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">🔥<br><b>Builder</b><br>AI + FinTech Systems</td>
-<td align="center">🧠<br><b>Thinker</b><br>Data → Decisions</td>
-<td align="center">🚀<br><b>Founder</b><br>PropToken Web3</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🧠 ABOUT ME
+> I am not a tool user.  
+> I am a **system builder working at the intersection of finance, AI, and ownership.**
 
 ```yaml
-name: Sohail Nasir
-role: FinTech × AI × Web3 Engineer
-education: FAST-NUCES (Dean’s List ×7 | Bronze Medalist 3.9 SGPA)
+Identity:
+  Name: Sohail Nasir
+  Role: FinTech × AI × Web3 Builder
+  Education: FAST-NUCES (Dean’s List ×7 | Bronze Medal 3.9 SGPA)
 
-current_roles:
-  - Founder @ PropToken
-  - AI Trainer @ Turing
+Mindset:
+  - Build real systems, not fake demos
+  - Automate decisions, not tasks
+  - Turn data into financial intelligence
 
-experience_domains:
-  - Banking Systems
-  - Telecom Analytics
-  - AI Product Development
-  - Blockchain Infrastructure
-
-mission: "Turn financial complexity into usable intelligent systems"
-status: "Open to AI / Data / Web3 Opportunities"
+Current Focus:
+  - AI decision systems
+  - Blockchain ownership models
+  - Financial automation engines
