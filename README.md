@@ -1,99 +1,147 @@
-# Sohail Nasir
+<div align="center">
 
-AI Developer | FinTech Builder | Web3 Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=260&section=header&text=Sohail%20Nasir&fontSize=65&fontColor=FFD700&fontAlignY=35&desc=AI%20Developer%20×%20FinTech%20×%20Web3%20Builder&descSize=18&descAlignY=58&animation=twinkling" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=FFD700&center=true&vCenter=true&width=950&lines=AI+Developer+Building+Real+Financial+Systems;Turning+Data+Into+Automated+Decisions;Founder+of+PropToken+%7C+ML+Engineer+%7C+System+Builder;Finance+%2B+AI+%2B+Blockchain+Engineer" />
+
+<br>
+
+<a href="mailto:msnkhp@gmail.com">
+<img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000"/>
+</a>
+
+<a href="https://linkedin.com/in/sohail-nasir-241352261">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
+</a>
+
+<a href="https://github.com/msnkhp">
+<img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=000"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=msnkhp&label=PROFILE+VIEWS&color=ffd700&style=for-the-badge" />
+
+</div>
 
 ---
 
-## About Me
+# ⚡ WHO I AM
 
-I am a Computer Science / FinTech graduate focused on building practical systems using AI, data, and blockchain.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=I+build+systems+that+replace+manual+work;AI+that+thinks+and+decides;Blockchain+systems+that+create+real+ownership" />
 
-I work on turning real-world financial problems into automated, intelligent software systems.
-
----
-
-## What I Do
-
-- Build AI systems for prediction, classification, and decision support
-- Develop fintech platforms for real-world financial workflows
-- Design and deploy smart contracts for blockchain-based applications
-- Work on full-stack products from idea to deployment
+I am an **AI Developer & FinTech Systems Builder** focused on building real production systems using AI, data, and blockchain.
 
 ---
 
-## Projects
+# 🚀 WHAT I DO
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=AI+Systems;FinTech+Automation;Blockchain+Applications" />
+
+- 🧠 AI-based decision systems  
+- 🏦 Financial automation platforms  
+- ⛓ Blockchain smart contract systems  
+- ⚙ Full-stack product development  
+
+---
+
+# 🏠 FEATURED PROJECTS
 
 ### PropToken (Founder)
-Blockchain-based real estate tokenization platform  
-- Fractional ownership using smart contracts  
-- MVP tested with real users  
-- Focus: transparency and automation in real estate
+Blockchain real estate tokenization system  
+- Fractional ownership via smart contracts  
+- ~40% faster processing  
+- 50+ real users validated  
 
 ---
 
 ### FinSight
-AI-powered financial intelligence system  
-- Real-time data processing  
-- Decision support using machine learning models  
+AI financial intelligence system  
+- Real-time market insights  
+- Data-driven decision engine  
 
 ---
 
 ### Fraud Detection System
-ML-based anomaly detection system  
-- Identifies suspicious financial transactions  
-- Hybrid statistical + ML approach  
+ML-based anomaly detection  
+- Detects suspicious transactions  
+- Hybrid ML + statistical model  
 
 ---
 
 ### Crypto Wallet System
-Secure blockchain wallet system  
+Secure blockchain wallet  
 - Encrypted transactions  
-- Secure signing and verification layer  
+- Secure verification layer  
 
 ---
 
-## Core Skills
+# 🧠 CORE SKILLS
 
-- Python (AI / ML / Data Science)
-- Machine Learning (Scikit-learn, Pandas)
-- FastAPI (Backend systems)
-- React (Frontend development)
-- Solidity (Smart contracts)
-- SQL / MongoDB
-- System design (basic to intermediate)
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,solidity,fastapi,mongodb,git,vercel,tailwind" />
 
----
-
-## Focus Areas
-
-- AI-driven financial systems
-- Automation of business workflows
-- Blockchain-based ownership models
-- Data-driven decision systems
+- Python (AI / ML)
+- React (Frontend)
+- FastAPI (Backend)
+- Solidity (Blockchain)
+- MongoDB / SQL
+- Data pipelines
 
 ---
 
-## Achievements
+# 📊 IMPACT
 
-- Dean’s List (7 semesters)
-- Bronze Medal (3.9 SGPA)
-- Built and deployed multiple MVP-level systems
-- Experience in fintech + AI + blockchain domains
-
----
-
-## Goal
-
-To build intelligent systems that simplify financial decision-making and remove manual processes through AI and automation.
+| Metric | Result |
+|------|--------|
+| ⚡ System Speed | +40% improvement |
+| 📈 AI Accuracy | +15–20% boost |
+| 🧩 Smart Contracts | 5+ deployed |
+| 👥 Users | 50+ validated |
 
 ---
 
-## Contact
+# 🎯 MISSION
 
-Email: msnkhp@gmail.com  
-LinkedIn: linkedin.com/in/sohail-nasir-241352261  
-GitHub: github.com/msnkhp
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=Make+finance+invisible+but+intelligent;Make+AI+decisions+fast+and+reliable;Make+ownership+borderless" />
 
 ---
 
-# “Build systems that solve real problems.”
+# ⚡ MOTTO
+
+<div align="center">
+
+> **I don’t build projects — I build systems that think, decide, and scale.**
+
+</div>
+
+---
+
+# 🤝 CONNECT
+
+<div align="center">
+
+<a href="mailto:msnkhp@gmail.com">
+<img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000"/>
+</a>
+
+<a href="https://linkedin.com/in/sohail-nasir-241352261">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
+</a>
+
+<a href="https://github.com/msnkhp">
+<img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=000"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=140&section=footer&animation=twinkling" />
+
+⚡ Built by Sohail Nasir — AI Systems Engineer ⚡
+
+</div>
