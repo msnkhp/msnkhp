@@ -1,211 +1,196 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=260&section=header&text=Sohail%20Nasir&fontSize=65&fontColor=FFD700&fontAlignY=35&desc=Building%20AI-Powered%20Financial%20Products%20%26%20Data-Driven%20Solutions&descSize=16&descAlignY=58&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:FFD700,100:FFFFFF&height=250&section=header&text=SOHAIL%20NASIR&fontSize=70&fontColor=000000&fontAlignY=38&desc=AI%20×%20FinTech%20×%20Blockchain%20Builder&descSize=18&descAlignY=58&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=600&color=D4AF00&center=true&vCenter=true&width=950&lines=%E2%9A%A1+I+Build+Systems+That+Think%2C+Decide%2C+%26+Scale;%F0%9F%8F%A0+Founder+%40+PropToken;%F0%9F%A4%96+Data+Analyst+%E2%80%93+AI+Trainer+%40+Turing;%F0%9F%92%B0+Turning+Raw+Data+Into+Real+Financial+Decisions" />
 
 <br>
 
-> *"I don't chase buzzwords — I build things that actually work for the person using them."*
+![](https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-FFD700?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/CGPA-3.62%2F4.00-FFD700?style=for-the-badge&labelColor=000000)
+![](https://img.shields.io/badge/LOCATION-PAKISTAN-FFD700?style=for-the-badge&labelColor=000000)
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=FFD700&center=true&vCenter=true&width=950&lines=Founder+of+PropToken+%7C+Data+Analyst+%E2%80%93+AI+Trainer+%40+Turing;Turning+Raw+Data+Into+Real+Financial+Decisions;FinTech+%2B+AI+%2B+Blockchain+Builder;BS+FinTech+%E2%80%93+NUCES+FAST+%7C+CGPA+3.62" />
+<a href="mailto:msnkhp@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-FFD700?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000"/></a>
+<a href="https://linkedin.com/in/sohail-nasir-241352261"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
+<a href="https://github.com/msnkhp"><img src="https://img.shields.io/badge/GITHUB-FFD700?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000"/></a>
+<a href="./Sohail_Nasir_CV.pdf"><img src="https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFD700"/></a>
 
 <br><br>
 
-<a href="mailto:msnkhp@gmail.com"><img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000"/></a>
-<a href="https://linkedin.com/in/sohail-nasir-241352261"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
-<a href="https://github.com/msnkhp"><img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=000"/></a>
-<a href="./Sohail_Nasir_CV.pdf"><img src="https://img.shields.io/badge/Download_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFD700"/></a>
+<img src="https://komarev.com/ghpvc/?username=msnkhp&label=PROFILE+VIEWS&color=ffd700&style=for-the-badge&labelColor=000000" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=msnkhp&label=PROFILE+VIEWS&color=ffd700&style=for-the-badge" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=900" />
 
-<br><br>
+**[ABOUT](#-the-pitch) · [EXPERIENCE](#-experience-timeline) · [PROJECTS](#-flagship-builds) · [SKILLS](#-skill-arsenal) · [IMPACT](#-impact-by-numbers) · [VISION](#-vision--motto) · [CONNECT](#-lets-build-something)**
 
-**[About](#-about-me) • [Experience](#-experience) • [Projects](#-featured-projects) • [Skills](#-skills) • [Certifications](#-certifications) • [Awards](#-awards) • [Connect](#-lets-connect)**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=900" />
 
 </div>
 
----
+<br>
 
-## 👋 About Me
+## ⚡ THE PITCH
 
-I build things that solve real financial problems — not pitch decks, working products. As **Founder of PropToken**, I designed smart contracts and financial models that let people own real estate in fractions instead of saving for years to buy a whole property. As a **Data Analyst – AI Trainer at Turing**, I work with AI models daily, pushing their accuracy up by training on real data, real edge cases, real mistakes.
+```diff
++ I build things that solve real financial problems — not ideas, working products.
++ Founder of PropToken: smart contracts + financial models for fractional real estate ownership.
++ Data Analyst at Turing: pushing AI accuracy up daily with real data, real edge cases, real mistakes.
+! I care less about buzzwords. I care if it actually works.
+```
 
-I care less about what sounds impressive and more about whether it actually works.
+<br>
 
----
+## 🔥 EXPERIENCE TIMELINE
 
-## 💼 Experience
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=900" />
 
-<table>
-<tr>
-<td width="70%">
+```
+2025 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ NOW
+```
 
-**🔹 Data Analyst – AI Trainer** · Turing *(Remote)*
-Evaluated 10,000+ AI-generated responses, raised model accuracy by **15–20%** via Python/SQL validation workflows.
+### 🟡 Data Analyst – AI Trainer @ Turing `Jun 2025 – Present`
+> Evaluated **10,000+** AI-generated responses → raised model accuracy **+15-20%** via Python/SQL validation pipelines
 
-</td>
-<td width="30%" align="right"><i>Jun 2025 – Present</i></td>
-</tr>
-<tr>
-<td>
+### 🟡 Product Development Executive @ Aurus Chain `2025 – Sep 2025`
+> Defined **10+** product requirements for pharma-focused AI SaaS → improved usability **+20%**
 
-**🔹 Product Development Executive** · Aurus Chain
-Defined 10+ product requirements for a pharma-focused AI SaaS platform, improved usability by **20%**.
+### 🟡 Digital Banking Intern @ U Microfinance Bank `Jul – Aug 2024`
+> Resolved disputes for **5,000+ customers** → cut turnaround time **−20%** @ **98% accuracy**
 
-</td>
-<td align="right"><i>2025 – Sep 2025</i></td>
-</tr>
-<tr>
-<td>
+### 🟡 Product Development Intern @ Ufone 4G `Jun – Jul 2024`
+> Analyzed churn across **1M+ users** → boosted targeting efficiency **+15%**
 
-**🔹 Digital Banking Intern** · U Microfinance Bank Limited
-Resolved ATM disputes for **5,000+ customers**, cut turnaround time by **20%** at **98% accuracy**.
+### 🟡 Web Development Intern @ Nexium `Feb – Jun 2024`
+> Shipped **5+** AI-integrated features end-to-end → page load **+25%** faster
 
-</td>
-<td align="right"><i>Jul 2024 – Aug 2024</i></td>
-</tr>
-<tr>
-<td>
+<br>
 
-**🔹 Segments / Product Development Intern** · Ufone 4G
-Analyzed churn across **1M+ users**, improved targeting efficiency by **15%**.
+## 🏆 FLAGSHIP BUILDS
 
-</td>
-<td align="right"><i>Jun 2024 – Jul 2024</i></td>
-</tr>
-<tr>
-<td>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=900" />
 
-**🔹 Web Development Intern** · Nexium
-Built 5+ AI-integrated web features end-to-end, improved page load by **~25%**.
+### 🏠 `PropToken` — Founder
+**Blockchain real estate tokenization platform · fractional ownership via smart contracts**
 
-</td>
-<td align="right"><i>Feb 2024 – Jun 2024</i></td>
-</tr>
-</table>
+| ⛓ Smart Contracts | 👥 Users Validated | ⚡ Speed Gain | 🏗 Investment Models |
+|:---:|:---:|:---:|:---:|
+| **5+** | **50+** | **~40%** | **3+** |
 
 ---
 
-## 🏠 Featured Projects
-
-### 🚀 PropToken — *Founder*
-Blockchain-powered real estate tokenization platform enabling fractional ownership.
-- ⛓ 5+ Solidity smart contracts · 🏗 Financial models for 3+ investment structures
-- 👥 MVP validated by **50+ users** · ⚡ **~40%** faster processing
-- 🔗 Web3-based fractional ownership & transparent asset tracking
-
-### 💰 FinTrack — Budgeting & Financial Analytics SaaS
-Real-time expense tracking, budgeting, and financial dashboards.
-`React.js` · `Python` · `FastAPI` · `REST APIs` · `MongoDB`
-
-### 📊 FinSight — AI Financial Intelligence Platform
-Full-stack platform delivering real-time insights & automated financial data processing.
-`React.js` · `Python` · `FastAPI` · `OpenAI API` · `REST APIs`
-
-### 📈 Customer Analytics, Churn & BI Dashboard System
-Churn analysis, customer segmentation, and KPI dashboards for performance reporting.
-`Python` · `SQL` · `Power BI` · `Excel`
-
-### 🔍 AI Fraud Detection System
-ML-based anomaly detection identifying fraudulent transactions via behavioral patterns.
-`Python` · `Scikit-learn` · `Pandas` · `NumPy`
+### 💰 `FinTrack` — Budgeting & Financial Analytics SaaS
+Real-time expense tracking + budgeting dashboards
+`React.js` `Python` `FastAPI` `MongoDB`
 
 ---
 
-## 🧠 Skills
-
-**FinTech & Financial Analytics**
-`Financial Modeling` `Credit Risk Analytics` `Fraud Detection` `Customer Segmentation` `Churn Analysis` `KPI Reporting`
-
-**AI & Machine Learning**
-`Machine Learning` `Predictive Analytics` `Generative AI` `Classification Models` `Anomaly Detection` `Feature Engineering`
-
-**Product & Data Analytics**
-`Product Strategy` `Business Intelligence` `Statistical Analysis` `Data Visualization` `Data-Driven Decision Making`
-
-**Technology & Development**
-
-<img src="https://skillicons.dev/icons?i=python,react,nodejs,solidity,fastapi,mongodb,git,vercel,tailwind" />
-
-`Python (Pandas, NumPy, Scikit-learn)` `SQL` `Power BI` `React.js` `FastAPI` `MongoDB` `Supabase` `Blockchain` `Solidity` `Web3`
+### 📊 `FinSight` — AI Financial Intelligence Platform
+Real-time insights + automated financial data processing
+`React.js` `Python` `FastAPI` `OpenAI API`
 
 ---
 
-## 📊 Impact by the Numbers
+### 🔍 `Fraud Shield` — AI Fraud Detection System
+ML-based anomaly detection on behavioral transaction patterns
+`Scikit-learn` `Pandas` `NumPy`
 
-| Metric | Result |
-|---|---|
-| 🤖 AI Response Accuracy | +15–20% |
-| ⚡ PropToken Processing Speed | ~40% faster |
-| 👥 PropToken Users Validated | 50+ |
-| 📉 Churn Analysis Coverage | 1M+ users |
-| 🎯 Targeting Efficiency | +15% |
-| 🏦 Customer Disputes Resolved | 5,000+ |
-| ⛓ Smart Contracts Deployed | 5+ |
+<br>
 
----
+## 🛠️ SKILL ARSENAL
 
-## 🎓 Education
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=900" />
 
-**Bachelor of Science in Financial Technology (FinTech)**
-National University of Computer and Emerging Sciences (NUCES – FAST) · Aug 2022 – Jun 2026
-CGPA: **3.62/4.00** · FYP: **PropToken** — Blockchain-powered real estate tokenization platform
+**💰 FinTech & Analytics**
+![](https://img.shields.io/badge/Financial_Modeling-FFD700?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/Credit_Risk-FFD700?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/Fraud_Detection-FFD700?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/Churn_Analysis-FFD700?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/KPI_Reporting-FFD700?style=flat-square&labelColor=000000)
 
----
+**🤖 AI & Machine Learning**
+![](https://img.shields.io/badge/Machine_Learning-FFD700?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/Predictive_Analytics-FFD700?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/Generative_AI-FFD700?style=flat-square&labelColor=000000)
+![](https://img.shields.io/badge/Anomaly_Detection-FFD700?style=flat-square&labelColor=000000)
 
-## 📜 Certifications
+**⚙️ Tech Stack**
+![](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=000000&labelColor=000000)
+![](https://img.shields.io/badge/React-FFD700?style=for-the-badge&logo=react&logoColor=000000&labelColor=000000)
+![](https://img.shields.io/badge/FastAPI-FFD700?style=for-the-badge&logo=fastapi&logoColor=000000&labelColor=000000)
+![](https://img.shields.io/badge/Solidity-FFD700?style=for-the-badge&logo=solidity&logoColor=000000&labelColor=000000)
+![](https://img.shields.io/badge/MongoDB-FFD700?style=for-the-badge&logo=mongodb&logoColor=000000&labelColor=000000)
+![](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=000000&labelColor=000000)
+![](https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=000000&labelColor=000000)
+![](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=000000&labelColor=000000)
 
-- 🤖 Datacom — Automation AI Accelerator: From Co-pilot to Autonomous Agent *(2026)*
-- 📊 Commonwealth Bank — Data Science *(2026)*
-- 💳 CFTE — FinTech Masterclass *(2025)*
-- 📈 Deloitte Australia — Data Analytics Job Simulation *(2026)*
-- ⛓ Cambridge International Qualifications, UK — Blockchain Technology *(2025)*
-- 🧮 Cognitive Class — Machine Learning with Python *(2025)*
+<br>
 
----
+## 📈 IMPACT BY NUMBERS
 
-## 🏆 Awards
-
-- 🥇 **Dean's List Honoree** — 7 consecutive semesters (Spring 2023 – Spring 2026), 3.5+ SGPA
-- 🥉 **Bronze Medal Recipient** — Spring 2026, 3.9 SGPA
-- 📣 **Marketing Head, FinTech Society** — Led marketing strategy & student engagement initiatives
-
----
-
-## 🎯 Vision
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=900" />
 
 <div align="center">
 
-> **To make finance invisible but intelligent — where AI decides fast and reliably, and ownership knows no borders.**
+| 🎯 Metric | 📊 Result |
+|:---|:---:|
+| AI Response Accuracy | **+15–20%** |
+| PropToken Processing Speed | **~40%** faster |
+| PropToken Validated Users | **50+** |
+| Users Analyzed for Churn | **1M+** |
+| Targeting Efficiency Gain | **+15%** |
+| Customer Disputes Resolved | **5,000+** |
+| Smart Contracts Deployed | **5+** |
 
 </div>
 
-## ⚡ Motto
+<br>
+
+## 🎓 EDUCATION & RECOGNITION
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=900" />
+
+**🎓 BS Financial Technology** — NUCES FAST `2022–2026` · CGPA **3.62/4.00**
+FYP: **PropToken** — Blockchain-powered real estate tokenization
+
+🥇 **Dean's List** — 7 consecutive semesters &nbsp;|&nbsp; 🥉 **Bronze Medalist** — 3.9 SGPA &nbsp;|&nbsp; 📣 **Marketing Head**, FinTech Society
+
+📜 Certified by: **Commonwealth Bank** · **CFTE** · **Deloitte Australia** · **Cambridge International Qualifications** · **Datacom**
+
+<br>
+
+## 🎯 VISION & MOTTO
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=900" />
 
 <div align="center">
 
-### *"I don't build projects — I build systems that think, decide, and scale."*
+### 🌟 *"To make finance invisible but intelligent — where AI decides fast and reliably, and ownership knows no borders."*
+
+<br>
+
+# ⚡ *"I don't build projects — I build systems that think, decide, and scale."* ⚡
 
 </div>
 
----
+<br>
 
-## 🤝 Let's Connect
+## 🤝 LET'S BUILD SOMETHING
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFD700&height=2&width=900" />
 
 <div align="center">
 
-<a href="mailto:msnkhp@gmail.com"><img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000"/></a>
-<a href="https://linkedin.com/in/sohail-nasir-241352261"><img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
-<a href="https://github.com/msnkhp"><img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=000"/></a>
-<a href="./Sohail_Nasir_CV.pdf"><img src="https://img.shields.io/badge/Download_My_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFD700"/></a>
+<a href="mailto:msnkhp@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-FFD700?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000"/></a>
+<a href="https://linkedin.com/in/sohail-nasir-241352261"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
+<a href="https://github.com/msnkhp"><img src="https://img.shields.io/badge/GITHUB-FFD700?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000"/></a>
+<a href="./Sohail_Nasir_CV.pdf"><img src="https://img.shields.io/badge/DOWNLOAD_MY_CV-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=FFD700"/></a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFD700,100:000000&height=140&section=footer&animation=twinkling" />
-
-⚡ Built by Sohail Nasir — AI Systems Engineer ⚡
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:FFD700,100:FFFFFF&height=150&section=footer&animation=fadeIn" />
 
 </div>
